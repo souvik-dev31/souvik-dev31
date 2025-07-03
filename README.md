@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @souvik-dev31
 - 👀 I’m interested in full stack development
 - 🌱 I’m currently learning the MERN stack
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :- souvik.juintern01@gmail.com
 - 😄 Pronouns: He/Him
   
